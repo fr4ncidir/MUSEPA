@@ -1,3 +1,6 @@
+> _This repository has moved to [https://github.com/CIMIL/MUSEPA](https://github.com/CIMIL/MUSEPA)_.
+
+
 # How to use MUSEPA
 
 Hello! If you are reading this, it's very likely that you want to use MUSEPA (formerly, cMinor v2).
